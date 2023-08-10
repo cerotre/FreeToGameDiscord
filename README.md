@@ -2,7 +2,8 @@
 
 ## 📄 Descripción
 
-Es una herramienta que te permite estar al tanto de los juegos gratuitos disponibles en la plataforma PC a través de notificaciones en tu servidor de Discord. Utiliza la API de FreeToGame para obtener datos sobre los juegos y luego envía mensajes enriquecidos en formato de "embed" a través de un webhook de Discord.
+FreeToGameDiscord es una herramienta que te permite estar al tanto de los juegos gratuitos disponibles en la plataforma PC a través de notificaciones en tu servidor de Discord. A diferencia de un programa que se ejecuta automáticamente cuando se actualiza la API, FreeToGameDiscord te permite controlar cuándo obtener y enviar las notificaciones. Cada vez que ejecutes el script, comenzará desde el primer juego y enviará notificaciones hasta el último.
+
 
 ## ⭐ Características
 
