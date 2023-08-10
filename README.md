@@ -27,12 +27,12 @@ Es una herramienta que te permite estar al tanto de los juegos gratuitos disponi
 1. Clona este repositorio en tu máquina local.
 2. Abre una terminal y navega hasta la carpeta del proyecto.
 3. Instala las bibliotecas necesarias si aún no lo has hecho:
-   
-   ```bash
+
+```bash
    pip install requests
    ```
 
-5. Ejecuta el script
+4. Ejecuta el script
 
   ```bash
   python free_to_game.py
