@@ -28,7 +28,7 @@ Es una herramienta que te permite estar al tanto de los juegos gratuitos disponi
 2. Abre una terminal y navega hasta la carpeta del proyecto.
 3. Instala las bibliotecas necesarias si aún no lo has hecho:
 
-```bash
+   ```bash
    pip install requests
    ```
 
