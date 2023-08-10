@@ -1,10 +1,10 @@
-# FreeToGameDiscord: Notificador de Juegos Gratuitos para Discord
+# :video_game: FreeToGameDiscord: Notificador de Juegos Gratuitos para Discord
 
-## Descripción
+## :page_facing_up: Descripción
 
 Es una herramienta que te permite estar al tanto de los juegos gratuitos disponibles en la plataforma PC a través de notificaciones en tu servidor de Discord. Utiliza la API de FreeToGame para obtener datos sobre los juegos y luego envía mensajes enriquecidos en formato de "embed" a través de un webhook de Discord.
 
-## Características
+## :star2: Características
 
 - Utiliza la API de FreeToGame para obtener la lista de juegos gratuitos disponibles en PC.
 - Crea mensajes en formato de "embed" para notificar sobre los juegos en Discord.
@@ -12,21 +12,19 @@ Es una herramienta que te permite estar al tanto de los juegos gratuitos disponi
 - Control de velocidad para respetar las restricciones de la API de Discord.
 - Muestra la fecha y hora de envío en el pie del mensaje "embed".
 
-## Uso
+## :computer: Uso
 
 1. Ejecuta el script proporcionando la URL del webhook de Discord cuando se solicite.
 2. El script obtendrá la lista de juegos gratuitos utilizando la API de FreeToGame y enviará notificaciones a través del webhook.
 
-## Requisitos
+## :clipboard: Requisitos
 
 - Python 3.x
 - Bibliotecas: `requests`
 
-## Instrucciones de Ejecución
+## :rocket: Instrucciones de Ejecución
 
 1. Clona este repositorio en tu máquina local.
 2. Abre una terminal y navega hasta la carpeta del proyecto.
 3. Instala las bibliotecas necesarias si aún no lo has hecho: `pip install requests`
 4. Ejecuta el script: `python free_to_game.py`
-
-  
